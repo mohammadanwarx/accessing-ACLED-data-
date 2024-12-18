@@ -1,4 +1,4 @@
 # accessing-ACLED-data-
 
 this code show simple access to ACLED data 
-filtered By country and dates
+filtered By country , dates and conflict type
